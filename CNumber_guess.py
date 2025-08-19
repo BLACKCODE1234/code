@@ -1,3 +1,4 @@
+# you're too old for this, make ti guesing game😏
 print('first code now')
 import random
 
